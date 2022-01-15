@@ -25,9 +25,13 @@
     main .slider .slider-text p{
         padding-left:  5%;
     }
+    main .slider .slider-text h1{
+        margin-left: 75px;
+    }
     main .slider .slider-img{
         width:475px;
         padding-left:12%;
+
     }
     main .populer-collection{
        
