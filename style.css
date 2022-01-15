@@ -67,7 +67,7 @@ main{
 }
 .slider-text button:hover{
     transform: scale(1.1);
-    transition: transform 1s ease-in-out;
+    transition: transform .3s ease-in-out;
 }
 
 .slider-text button .fas.fa-arrow-right {
